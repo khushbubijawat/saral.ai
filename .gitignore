@@ -1,0 +1,20 @@
+# Outputs / generated
+outputs/
+*.log
+
+# Large models / binaries
+*.gguf
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+.venv/
+venv/
