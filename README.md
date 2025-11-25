@@ -1,6 +1,6 @@
 
 # saral.ai
-
+PPT ->  https://docs.google.com/presentation/d/1ivWTa8ivJ0M-PK5rUpctiLDu8qbUQ6-NwckjNe5yHU4/edit?usp=sharing
 # Theme 1 — Beamer LaTeX Presentation Customizer (Math-aware)
 
 This is a **minimal end-to-end pipeline** for SARAL Theme 1, using **open-source LLMs via Ollama**
